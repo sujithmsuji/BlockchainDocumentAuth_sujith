@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+instance/database.db
+uploads/
+static/qr/
+.env
+.vscode/
