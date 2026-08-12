@@ -142,4 +142,4 @@ Project – 2026
 
 ## 📜 License
 
-This project is developed for educational purposes as part of an MCA Mini Project.
+This project is developed for educational purposes as part of an Mini Project.
